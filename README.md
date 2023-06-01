@@ -13,7 +13,7 @@ This is a webapp built using Spring-boot and ReactJS that provides functionality
   <img src="https://user-images.githubusercontent.com/56812557/212474250-2a6f7ce8-b7bd-4055-9e72-a18eb08d5ce0.png" alt="Registration Page" width="100%" height="100%" >
 
 - Admin Profile Page<br>
-  <img src="https://github.com/Samyukthanemani/Exam-Portal/assets/134776023/52d4b55f-a65d-49f3-8628-00a8a63f60e5" alt="Admin Profile Page" width="100%" height="100%" >
+  <img src="https://github.com/Samyukthanemani/Exam-Portal/assets/134776023/019f0f97-69b2-4f9a-b1fa-6d6f3b9f4c20" alt="Admin Profile Page" width="100%" height="100%" >
 
 - Admin Categories Page<br>
   <img src="https://user-images.githubusercontent.com/56812557/212474263-e467df05-fe4c-42bf-9ee9-bd905afdf88f.png" alt="Admin Categories Page" width="100%" height="100%" >
