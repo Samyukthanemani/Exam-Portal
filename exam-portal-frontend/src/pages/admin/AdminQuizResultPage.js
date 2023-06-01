@@ -47,6 +47,7 @@ const AdminQuizResultPage = () => {
                 <th>Quiz Id</th>
                 <th>Quiz Name</th>
                 <th>Category Name</th>
+                <th>User Id</th>
                 <th>Obtained Marks</th>
                 <th>Total Marks</th>
                 <th>Date</th>
@@ -59,6 +60,7 @@ const AdminQuizResultPage = () => {
                     <td>{r.quiz.quizId}</td>
                     <td>{r.quiz.title}</td>
                     <td>{r.quiz.category.title}</td>
+                    <td>{r.userId}</td>
                     <td>{r.totalObtainedMarks}</td>
                     <td>{r.quiz.numOfQuestions * 5}</td>
                     <td>{r.attemptDatetime}</td>
